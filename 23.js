@@ -6,4 +6,4 @@ let num = 100;
 for(let i=0;i<=num;i++){
     total=total+i;
 }
-console.log(total);
+console.log(total); //5050
